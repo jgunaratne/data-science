@@ -1,1 +1,1 @@
-Solutions for Data Science coursera class.
+My solutions for Data Science coursera class.
